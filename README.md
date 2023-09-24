@@ -1,6 +1,6 @@
 # BeatDrop-JS
 
-a dumb script for just getting some got damned songs
+A dumb script for just getting some got damned songs
 
 This is just a wrapper around [deemix](https://deemix.app/), specifically around [deemix-js](https://git.freezer.life/RemixDev/deemix-js). it's main purpose is to serve as an easier, more accessible implements script to the deemix library.
 
@@ -12,9 +12,9 @@ it's intended use is for small groups of people to self-host, and as such there'
 
    your arl can be found in the local storage for deezer, as a value conviniently named `arl`
 
-2. You would type `npm install` and install all information
+2. You would type `npm install` and install all packages
    
-3. You can run thsi proyect firts you type: `cd/src` and then type `node index.js`.
+3. You can run this proyect firts you type: `cd/src` and then type `node index.js`.
 
 
 ## legal notice
