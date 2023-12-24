@@ -24,4 +24,3 @@ None of the code in this repository reverses, surpasses or otherwise prevents th
 ## attributions & contributors
 
 - [deemix](https://deemix.app/) & [deemix-js](https://git.freezer.life/RemixDev/deemix-js) developers and contributors
-- [aether](https://git.oat.zone/aether) for creating the light theme and helping design other parts of the website
