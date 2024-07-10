@@ -8,7 +8,7 @@ export const deezerInstance = new deezer.Deezer();
 export const format = deezer.TrackFormats[config.deemix.trackFormat || 'MP3_320'];
 
 export const deemixSettings = deemix.settings.DEFAULTS;
-deemixSettings.downloadLocation = "C:/Users/Cris/Desktop/Deemix/BeatDown-TS/music";
+deemixSettings.downloadLocation = "C:/Users/Cris/Desktop/BorrarDespues/BeatDown-JS/music";
 // deemixSettings.downloadLocation = path.join(process.cwd(), './music');
 deemixSettings.overwriteFile = deemix.settings.OverwriteOption.ONLY_TAGS;
 deemixSettings.maxBitrate = String(format);
